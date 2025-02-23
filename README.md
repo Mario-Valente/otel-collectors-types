@@ -1,0 +1,1 @@
+# otel-collectors-types
